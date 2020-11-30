@@ -1,0 +1,458 @@
+2020-11-27 11:24:59.216  INFO 15740 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 15740 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 11:24:59.219  INFO 15740 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 11:25:00.629  INFO 15740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:25:00.636  INFO 15740 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:25:00.637  INFO 15740 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 11:25:00.637  INFO 15740 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 11:25:00.778  INFO 15740 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 11:25:00.778  INFO 15740 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1491 ms
+2020-11-27 11:25:02.289  INFO 15740 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 11:25:02.371  INFO 15740 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:25:02.556  INFO 15740 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:25:02.572  INFO 15740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:25:02.573  INFO 15740 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 11:25:02.587  INFO 15740 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 11:25:02.624  INFO 15740 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 11:25:02.788  INFO 15740 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.248 seconds (JVM running for 5.532)
+2020-11-27 11:30:56.290  INFO 17916 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 17916 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 11:30:56.293  INFO 17916 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 11:30:57.503  INFO 17916 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:30:57.514  INFO 17916 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:30:57.515  INFO 17916 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 11:30:57.515  INFO 17916 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 11:30:57.659  INFO 17916 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 11:30:57.659  INFO 17916 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1314 ms
+2020-11-27 11:30:59.276  INFO 17916 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 11:30:59.348  INFO 17916 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:30:59.530  INFO 17916 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:30:59.548  INFO 17916 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:30:59.550  INFO 17916 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 11:30:59.567  INFO 17916 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 11:30:59.598  INFO 17916 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 11:30:59.784  INFO 17916 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 3.971 seconds (JVM running for 4.965)
+2020-11-27 11:33:32.178  INFO 2476 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 2476 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 11:33:32.181  INFO 2476 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 11:33:33.555  INFO 2476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:33:33.563  INFO 2476 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:33:33.563  INFO 2476 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 11:33:33.563  INFO 2476 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 11:33:33.692  INFO 2476 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 11:33:33.692  INFO 2476 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1446 ms
+2020-11-27 11:33:35.128  INFO 2476 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 11:33:35.214  INFO 2476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:33:35.386  INFO 2476 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:33:35.399  INFO 2476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:33:35.403  INFO 2476 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 11:33:35.423  INFO 2476 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 11:33:35.451  INFO 2476 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 11:33:35.621  INFO 2476 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.09 seconds (JVM running for 5.314)
+2020-11-27 11:34:24.602  INFO 13468 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 13468 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 11:34:24.608  INFO 13468 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 11:34:25.996  INFO 13468 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:34:26.008  INFO 13468 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:34:26.009  INFO 13468 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 11:34:26.009  INFO 13468 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 11:34:26.178  INFO 13468 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 11:34:26.179  INFO 13468 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1504 ms
+2020-11-27 11:34:27.742  INFO 13468 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 11:34:27.821  INFO 13468 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:34:28.006  INFO 13468 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:34:28.021  INFO 13468 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:34:28.022  INFO 13468 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 11:34:28.039  INFO 13468 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 11:34:28.078  INFO 13468 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 11:34:28.240  INFO 13468 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.236 seconds (JVM running for 5.526)
+2020-11-27 11:50:25.096  INFO fan 14744 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 14744 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 11:50:25.101  INFO fan 14744 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 11:50:26.489  INFO fan 14744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:50:26.501  INFO fan 14744 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:50:26.504  INFO fan 14744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 11:50:26.506  INFO fan 14744 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 11:50:26.625  INFO fan 14744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 11:50:26.625  INFO fan 14744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1445 ms
+2020-11-27 11:50:28.035  INFO fan 14744 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 11:50:28.124  INFO fan 14744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:50:28.297  INFO fan 14744 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:50:28.310  INFO fan 14744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:50:28.311  INFO fan 14744 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 11:50:28.335  INFO fan 14744 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 11:50:28.361  INFO fan 14744 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 11:50:28.516  INFO fan 14744 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.1 seconds (JVM running for 5.359)
+2020-11-27 11:51:02.219  INFO contextName_IS_UNDEFINED 13788 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 13788 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 11:51:02.221  INFO contextName_IS_UNDEFINED 13788 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 11:51:03.625  INFO contextName_IS_UNDEFINED 13788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:51:03.633  INFO contextName_IS_UNDEFINED 13788 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:51:03.634  INFO contextName_IS_UNDEFINED 13788 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 11:51:03.634  INFO contextName_IS_UNDEFINED 13788 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 11:51:03.767  INFO contextName_IS_UNDEFINED 13788 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 11:51:03.767  INFO contextName_IS_UNDEFINED 13788 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1474 ms
+2020-11-27 11:51:05.217  INFO contextName_IS_UNDEFINED 13788 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 11:51:05.309  INFO contextName_IS_UNDEFINED 13788 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:51:05.482  INFO contextName_IS_UNDEFINED 13788 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:51:05.512  INFO contextName_IS_UNDEFINED 13788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:51:05.515  INFO contextName_IS_UNDEFINED 13788 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 11:51:05.527  INFO contextName_IS_UNDEFINED 13788 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 11:51:05.559  INFO contextName_IS_UNDEFINED 13788 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 11:51:05.725  INFO contextName_IS_UNDEFINED 13788 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.129 seconds (JVM running for 5.61)
+2020-11-27 14:15:48.103  INFO  6360 --- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 6360 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:15:48.108  INFO  6360 --- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:15:49.451  INFO  6360 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:15:49.459  INFO  6360 --- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:15:49.460  INFO  6360 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:15:49.460  INFO  6360 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:15:49.596  INFO  6360 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:15:49.596  INFO  6360 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1417 ms
+2020-11-27 14:15:51.038  INFO  6360 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:15:51.143  INFO  6360 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:15:51.325  INFO  6360 --- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:15:51.344  INFO  6360 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:15:51.345  INFO  6360 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:15:51.358  INFO  6360 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:15:51.387  INFO  6360 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:15:51.554  INFO  6360 --- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.053 seconds (JVM running for 5.326)
+2020-11-27 14:18:58.962  INFO  18356 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 18356 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:18:58.965  INFO  18356 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:19:00.294  INFO  18356 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:19:00.303  INFO  18356 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:19:00.303  INFO  18356 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:19:00.304  INFO  18356 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:19:00.432  INFO  18356 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:19:00.432  INFO  18356 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1408 ms
+2020-11-27 14:19:01.857  INFO  18356 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:19:01.938  INFO  18356 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:19:02.127  INFO  18356 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:19:02.141  INFO  18356 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:19:02.142  INFO  18356 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:19:02.156  INFO  18356 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:19:02.194  INFO  18356 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:19:02.362  INFO  18356 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.014 seconds (JVM running for 5.321)
+2020-11-27 14:20:30.931  INFO  3652 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 3652 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:20:30.935  INFO  3652 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:20:32.398  INFO  3652 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:20:32.407  INFO  3652 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:20:32.408  INFO  3652 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:20:32.408  INFO  3652 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:20:32.541  INFO  3652 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:20:32.541  INFO  3652 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1541 ms
+2020-11-27 14:20:33.971  INFO  3652 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:20:34.051  INFO  3652 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:20:34.239  INFO  3652 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:20:34.253  INFO  3652 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:20:34.254  INFO  3652 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:20:34.276  INFO  3652 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:20:34.306  INFO  3652 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:20:34.461  INFO  3652 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.115 seconds (JVM running for 5.344)
+2020-11-27 14:21:02.159  INFO  18124 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 18124 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:21:02.162  INFO  18124 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:21:03.440  INFO  18124 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:21:03.457  INFO  18124 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:21:03.458  INFO  18124 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:21:03.458  INFO  18124 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:21:03.575  INFO  18124 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:21:03.576  INFO  18124 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1362 ms
+2020-11-27 14:21:04.970  INFO  18124 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:21:05.044  INFO  18124 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:21:05.222  INFO  18124 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:21:05.238  INFO  18124 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:21:05.239  INFO  18124 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:21:05.251  INFO  18124 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:21:05.287  INFO  18124 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:21:05.446  INFO  18124 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 3.915 seconds (JVM running for 5.147)
+2020-11-27 14:23:06.745  INFO  15512 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 15512 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:23:06.749  INFO  15512 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:23:08.055  INFO  15512 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:23:08.063  INFO  15512 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:23:08.064  INFO  15512 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:23:08.064  INFO  15512 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:23:08.190  INFO  15512 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:23:08.190  INFO  15512 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1395 ms
+2020-11-27 14:23:09.571  INFO  15512 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:23:09.661  INFO  15512 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:23:09.824  INFO  15512 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:23:09.848  INFO  15512 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:23:09.849  INFO  15512 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:23:09.862  INFO  15512 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:23:09.891  INFO  15512 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:23:10.044  INFO  15512 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 3.922 seconds (JVM running for 5.29)
+2020-11-27 14:24:13.795  INFO  17732 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 17732 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:24:13.799  INFO  17732 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:24:15.127  INFO  17732 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:24:15.147  INFO  17732 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:24:15.147  INFO  17732 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:24:15.147  INFO  17732 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:24:15.271  INFO  17732 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:24:15.273  INFO  17732 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1398 ms
+2020-11-27 14:24:16.660  INFO  17732 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:24:16.741  INFO  17732 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:24:16.925  INFO  17732 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:24:16.940  INFO  17732 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:24:16.941  INFO  17732 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:24:16.952  INFO  17732 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:24:16.989  INFO  17732 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:24:17.155  INFO  17732 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 3.974 seconds (JVM running for 5.272)
+2020-11-27 14:25:32.193  INFO  15668 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 15668 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:25:32.195  INFO  15668 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:25:33.462  INFO  15668 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:25:33.479  INFO  15668 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:25:33.480  INFO  15668 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:25:33.480  INFO  15668 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:25:33.614  INFO  15668 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:25:33.615  INFO  15668 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1385 ms
+2020-11-27 14:25:34.991  INFO  15668 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:25:35.076  INFO  15668 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:25:35.251  INFO  15668 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:25:35.264  INFO  15668 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:25:35.265  INFO  15668 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:25:35.277  INFO  15668 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:25:35.322  INFO  15668 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:25:35.474  INFO  15668 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 3.93 seconds (JVM running for 5.191)
+2020-11-27 14:26:03.692  INFO  17196 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 17196 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:26:03.695  INFO  17196 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:26:05.036  INFO  17196 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:26:05.043  INFO  17196 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:26:05.043  INFO  17196 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:26:05.043  INFO  17196 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:26:05.169  INFO  17196 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:26:05.169  INFO  17196 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1406 ms
+2020-11-27 14:26:06.604  INFO  17196 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:26:06.681  INFO  17196 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:26:06.855  INFO  17196 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:26:06.873  INFO  17196 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:26:06.874  INFO  17196 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:26:06.887  INFO  17196 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:26:06.927  INFO  17196 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:26:07.088  INFO  17196 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 3.995 seconds (JVM running for 5.367)
+2020-11-27 14:26:23.335  INFO  16896 fan--- [main] com.fyf.student.StudentApplication       : Starting StudentApplication using Java 1.8.0_191 on LAPTOP-JHOHK89S with PID 16896 (D:\ProjectForMe\student\target\classes started by bikao in D:\ProjectForMe\student)
+2020-11-27 14:26:23.339  INFO  16896 fan--- [main] com.fyf.student.StudentApplication       : No active profile set, falling back to default profiles: default
+2020-11-27 14:26:24.707  INFO  16896 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-27 14:26:24.714  INFO  16896 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:26:24.714  INFO  16896 fan--- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-27 14:26:24.714  INFO  16896 fan--- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 14:26:24.839  INFO  16896 fan--- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-27 14:26:24.839  INFO  16896 fan--- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1437 ms
+2020-11-27 14:26:26.265  INFO  16896 fan--- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-27 14:26:26.349  INFO  16896 fan--- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 14:26:26.537  INFO  16896 fan--- [main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 14:26:26.551  INFO  16896 fan--- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 14:26:26.552  INFO  16896 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-11-27 14:26:26.575  INFO  16896 fan--- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-11-27 14:26:26.603  INFO  16896 fan--- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-11-27 14:26:26.761  INFO  16896 fan--- [main] com.fyf.student.StudentApplication       : Started StudentApplication in 4.081 seconds (JVM running for 5.312)
+2020-11-27 14:43:28.784 ERROR  17752 fan--- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mySwaggerController': Unsatisfied dependency expressed through field 'service'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'locationServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.fyf.student.mapper.LocationMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1415)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:608)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:531)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:925)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:588)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at com.fyf.student.StudentApplication.main(StudentApplication.java:15)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'locationServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.fyf.student.mapper.LocationMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1415)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:608)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:531)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1367)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.fyf.student.mapper.LocationMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1777)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1333)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 33 common frames omitted
+
+2020-11-27 14:59:12.016 ERROR  3928 fan--- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mySwaggerController': Unsatisfied dependency expressed through field 'service'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'locationServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.fyf.student.mapper.LocationMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1415)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:608)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:531)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:925)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:588)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at com.fyf.student.StudentApplication.main(StudentApplication.java:15)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'locationServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.fyf.student.mapper.LocationMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1415)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:608)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:531)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1367)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.fyf.student.mapper.LocationMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1777)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1333)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 33 common frames omitted
+
+2020-11-27 15:17:49.947 ERROR  8436 fan--- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.fyf.student.controller.LocationController.findById(LocationController.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:893)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:807)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-11-27 15:18:32.418 ERROR  8436 fan--- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.fyf.student.controller.LocationController.findById(LocationController.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:893)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:807)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-11-27 16:44:47.848 ERROR  8960 fan--- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+No bean of type 'org.apache.shiro.realm.Realm' found.
+
+Action:
+
+Please create bean of type 'Realm' or add a shiro.ini in the root classpath (src/main/resources/shiro.ini) or in the META-INF folder (src/main/resources/META-INF/shiro.ini).
+

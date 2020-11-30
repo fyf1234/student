@@ -1,0 +1,29 @@
+#
+#mybatis-plus:
+#  #xml配置文件扫描
+#  mapper-locations:
+#    - classpath*:mapper/**/*.xml
+#  #枚举包扫描
+#  type-enums-package: com.lanyou.**.enums
+#  global-config:
+#    db-config:
+#      #id自增长
+#      id-type: auto
+#      #逻辑已删除值
+#      logic-delete-value: 1
+#      #逻辑未删除值
+#      logic-not-delete-value: 0
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1219129047
+    url: jdbc:mysql://localhost:3306/yueyang?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&tinyInt1isBit=false
+
+#logging:
+#  level:
+#    root: info
+#  file:
+#    path:
+#    name: log/fan.log
+
