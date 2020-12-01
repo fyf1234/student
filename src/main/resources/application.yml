@@ -14,6 +14,10 @@
 #      #逻辑未删除值
 #      logic-not-delete-value: 0
 spring:
+  redis:
+    host: localhost
+    password:
+    port: 6379
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root

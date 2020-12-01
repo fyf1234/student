@@ -8,4 +8,5 @@ import com.fyf.student.entity.User;
  * @date 2020/11/30 10:09
  */
 public interface IUserService extends IService<User> {
+    User findUserByUserName(String userName);
 }
